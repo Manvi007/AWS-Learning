@@ -1,0 +1,11 @@
+schemaname,tablename,column,type,encoding,distkey,sortkey,notnull
+public,sales,salesid,integer,az64,false,,true
+public,sales,listid,integer,az64,true,,true
+public,sales,sellerid,integer,az64,false,,true
+public,sales,buyerid,integer,az64,false,,true
+public,sales,eventid,integer,az64,false,,true
+public,sales,dateid,smallint,none,false,1,true
+public,sales,qtysold,smallint,az64,false,,true
+public,sales,pricepaid,"numeric(8,2)",az64,false,,false
+public,sales,commission,"numeric(8,2)",az64,false,,false
+public,sales,saletime,timestamp without time zone,az64,false,,false
