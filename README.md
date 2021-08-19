@@ -5,3 +5,4 @@ Topics Covered:
 4) BI Dashboards Handson on AWS
 5) Deploy a datawarehouse handson on AWS
 6) E-books
+7) AWS Innovate:Data Edition (19th Aug 2021)
