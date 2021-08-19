@@ -4,3 +4,4 @@ Topics Covered:
 3) AWS Components
 4) BI Dashboards Handson on AWS
 5) Deploy a datawarehouse handson on AWS
+6) E-books
